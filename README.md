@@ -12,4 +12,5 @@
 
 ### ✨Other Links:
 Invite my Bot: https://discord.com/api/oauth2/authorize?client_id=860367972248715264&permissions=8&scope=bot
+
 Support Server: https://discord.gg/NYAKXKfMYq
