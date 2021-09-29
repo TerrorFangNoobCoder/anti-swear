@@ -1,4 +1,4 @@
 {
   "token": "BOT_PREFIX",
-  "default_prefix": "g!",
+  "default_prefix": "A_PREFIX",
 }
