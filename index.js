@@ -1,7 +1,7 @@
 const { Collection, MessageEmbed } = require("discord.js");
 const Discord = require('discord.js')
 const { config } = require("dotenv");
-const { default_prefix, token, bstoken } = require("./config.json")
+const { default_prefix, token } = require("./config.json")
 const express = require("express")
 const app = express()
 const db = require('quick.db')
